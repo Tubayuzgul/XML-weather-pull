@@ -1,0 +1,9 @@
+C:\Users\-irem\Desktop\XML_Hava_Durumu_Cekme\XML_Hava_Durumu_Cekme\XML_Hava_Durumu_Cekme\bin\Debug\XML_Hava_Durumu_Cekme.exe.config
+C:\Users\-irem\Desktop\XML_Hava_Durumu_Cekme\XML_Hava_Durumu_Cekme\XML_Hava_Durumu_Cekme\bin\Debug\XML_Hava_Durumu_Cekme.exe
+C:\Users\-irem\Desktop\XML_Hava_Durumu_Cekme\XML_Hava_Durumu_Cekme\XML_Hava_Durumu_Cekme\bin\Debug\XML_Hava_Durumu_Cekme.pdb
+C:\Users\-irem\Desktop\XML_Hava_Durumu_Cekme\XML_Hava_Durumu_Cekme\XML_Hava_Durumu_Cekme\obj\Debug\XML_Hava_Durumu_Cekme.csprojResolveAssemblyReference.cache
+C:\Users\-irem\Desktop\XML_Hava_Durumu_Cekme\XML_Hava_Durumu_Cekme\XML_Hava_Durumu_Cekme\obj\Debug\XML_Hava_Durumu_Cekme.Form1.resources
+C:\Users\-irem\Desktop\XML_Hava_Durumu_Cekme\XML_Hava_Durumu_Cekme\XML_Hava_Durumu_Cekme\obj\Debug\XML_Hava_Durumu_Cekme.Properties.Resources.resources
+C:\Users\-irem\Desktop\XML_Hava_Durumu_Cekme\XML_Hava_Durumu_Cekme\XML_Hava_Durumu_Cekme\obj\Debug\XML_Hava_Durumu_Cekme.csproj.GenerateResource.Cache
+C:\Users\-irem\Desktop\XML_Hava_Durumu_Cekme\XML_Hava_Durumu_Cekme\XML_Hava_Durumu_Cekme\obj\Debug\XML_Hava_Durumu_Cekme.exe
+C:\Users\-irem\Desktop\XML_Hava_Durumu_Cekme\XML_Hava_Durumu_Cekme\XML_Hava_Durumu_Cekme\obj\Debug\XML_Hava_Durumu_Cekme.pdb
